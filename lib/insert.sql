@@ -29,5 +29,3 @@ INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES (
 INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES (
   NULL, 6, "M", "Red", "Choleric", 1
 );
-
-
