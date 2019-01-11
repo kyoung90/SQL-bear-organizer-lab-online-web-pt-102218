@@ -10,6 +10,22 @@ INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES (
   "Tabitha", 10, "F", "White", "friendly", 1
 );
 
+INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES (
+  "Sergeant Brown", 9, "M", "Brown", "goofy", 1
+);
+
+INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES (
+  "Melissa", 1, "F", "Black", "goofy", 1
+);
+
+INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES (
+  "Grinch", 3, "M", "Black", "choleric", 1
+);
+
+INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES (
+  "Wendy", 4, "F", "White", "Phlegmatic", 1
+);
+
 -- Mr. Chocolate
 -- Rowdy
 -- Tabitha
