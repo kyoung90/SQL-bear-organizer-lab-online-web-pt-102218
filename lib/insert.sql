@@ -26,6 +26,12 @@ INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES (
   "Wendy", 4, "F", "White", "Phlegmatic", 1
 );
 
+INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES (
+  NULL, 6, "M", "Red", "Choleric", 1
+);
+
+
+
 -- Mr. Chocolate
 -- Rowdy
 -- Tabitha
